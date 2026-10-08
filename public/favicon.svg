@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Laviedge Developers">
+  <defs>
+    <linearGradient id="mark" x1="0" y1="0" x2="64" y2="64">
+      <stop offset="0" stop-color="#0B3D91"/>
+      <stop offset="0.55" stop-color="#1147A8"/>
+      <stop offset="1" stop-color="#3AA0D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="url(#mark)"/>
+  <path d="M18 14h6v22h16v6H18V14z" fill="#FDFEFF"/>
+  <path d="M18 42c10-1 16-10 22-10 4 0 6 3 8 6" fill="none" stroke="#D4B44A" stroke-width="4"/>
+  <rect x="16" y="52" width="32" height="2" fill="#D4B44A"/>
+</svg>
